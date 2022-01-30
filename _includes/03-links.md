@@ -1,1 +1,1 @@
-Replace this with a link to your a GitHub or social media profile.
+My github prolile: [Jonathan's github profile link](https://www.github.com/jssol)
