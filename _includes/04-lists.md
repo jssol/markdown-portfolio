@@ -1,0 +1,6 @@
+- Sports
+	- Football
+	- Basketball
+- Food
+- Anime
+- Being at peace
